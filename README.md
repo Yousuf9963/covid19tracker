@@ -3,3 +3,7 @@ This is a simple twitterbot that tweets Coronavirus statistics once every 24 hou
 
 # Steps
 https://blog.hubspot.com/website/how-to-make-a-twitter-bot
+
+# Donation
+
+https://www.buymeacoffee.com/junioprogrammer
